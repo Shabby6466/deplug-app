@@ -1,80 +1,40 @@
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
 
-# DePlug
+# DePlug (Project Structure Only)
 
-DePlug is a decentralized energy management systesm.
+DePlug is a **decentralized energy management system** built using **Flutter**.  
+> _⚠️ This version is redacted for portfolio purposes. All client-sensitive code, APIs, and business logic have been removed._
 
-## Installation
+This repository is intended to showcase the **folder structure**, **build environment setup**, and my **code organization practices** for Flutter-based production apps.
 
-First you need to setup flutter on your system. This link will guide you how to do
-that. [Install Flutter](https://flutter.dev/docs/get-started/install)
+---
 
-After install check if your installation is successful or not by running this command in terminal /
-cmd.
+## 🚧 What's Included
 
-```bash
-flutter doctor -v
-```
+- Clean modular folder layout
+- Environment-based build system (`prod`, `development`)
+- Sample main entry points for each flavor
+- Basic routing and configuration patterns
+- CI-ready structure for scalable Flutter apps
 
-After setting up the environment clone this project to your desired location.
+---
 
-```bash
-git clone https://bitbucket.org/rnssol/mobile-app.git
-```
+## ❌ What's Removed (for confidentiality)
 
-After cloning move to the installation folder and run
+- Business logic, UI code, API calls
+- Client assets, endpoints, auth flows
+- Actual functionality (this is not a runnable app)
 
-```bash
-flutter clean
-flutter pub get
-```
+---
 
-Code setup is completed at this stage.
+## 🚀 Tech Stack
 
-## Usage
+- **Flutter** (Stable Channel)
+- **Dart**
+- **Flavor-based environment config**
+- **Lint** for code consistency ([package](https://pub.dev/packages/lint))
 
-We have four environments in our code
+---
 
-* Production
-* Development
+## 📂 Folder Overview
 
-For building the android and iOS builds for each one of them is given below
-
-**Production**
-
-```bash
-flutter build apk --flavor prod -t lib/main/prod.dart   // For android
-flutter build ios --flavor prod -t lib/main/prod.dart   // For ios
-```
-
-**Development**
-
-```bash
-flutter build apk --flavor development -t lib/main/development.dart   // For android
-flutter build ios --flavor development -t lib/main/development.dart   // For ios
-```
-
-## Running
-
-**Production**
-
-```bash
-flutter run --flavor prod -t lib/main/prod.dart   
-```
-
-**Development**
-
-```bash
-flutter run --flavor development -t lib/main/development.dart   
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would
-like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
