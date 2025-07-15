@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="mask0_5057_1781" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+        <rect width="32" height="32" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#mask0_5057_1781)">
+        <rect x="31.1379" y="7.37939" width="18.2414" height="2.37931" transform="rotate(90 31.1379 7.37939)" fill="#80887E"/>
+        <rect x="18.4482" y="12.3794" width="7.93103" height="2.37931" transform="rotate(90 18.4482 12.3794)" fill="#80887E"/>
+        <rect x="26.3794" y="14.7585" width="2.77586" height="5.55172" transform="rotate(90 26.3794 14.7585)" fill="#80887E"/>
+        <rect x="3.37939" y="7.37939" width="18.2414" height="2.37931" transform="rotate(90 3.37939 7.37939)" fill="#80887E"/>
+        <rect x="28.7588" y="10" width="2.37931" height="10.3103" transform="rotate(90 28.7588 10)" fill="#80887E"/>
+        <rect x="28.7588" y="20.3103" width="2.37931" height="10.3103" transform="rotate(90 28.7588 20.3103)" fill="#80887E"/>
+        <rect x="3.37939" y="5" width="25.3793" height="2.37931" fill="#80887E"/>
+        <rect x="3.37939" y="25.6206" width="25.3793" height="2.37931" fill="#80887E"/>
+    </g>
+</svg>

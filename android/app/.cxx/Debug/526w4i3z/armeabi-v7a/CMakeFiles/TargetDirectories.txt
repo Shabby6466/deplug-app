@@ -1,0 +1,2 @@
+/Users/Akmal/Desktop/mobile-app/android/app/.cxx/Debug/526w4i3z/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/Akmal/Desktop/mobile-app/android/app/.cxx/Debug/526w4i3z/armeabi-v7a/CMakeFiles/rebuild_cache.dir

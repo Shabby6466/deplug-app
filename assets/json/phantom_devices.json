@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Entertainment & Media",
+    "devices": [
+      {
+        "deviceId": "tv",
+        "name": "TV",
+        "standbyPower": "2–5W"
+      },
+      {
+        "deviceId": "game_console",
+        "name": "Game Console",
+        "standbyPower": "2–5W"
+      },
+      {
+        "deviceId": "sound_system",
+        "name": "Sound System / Home Theater",
+        "standbyPower": "2–5W"
+      },
+      {
+        "deviceId": "blu_ray_player",
+        "name": "Blu-ray Player",
+        "standbyPower": "1–3W"
+      },
+      {
+        "deviceId": "streaming_stick",
+        "name": "Streaming Stick (e.g., Fire TV, Roku)",
+        "standbyPower": "1–2W"
+      }
+    ]
+  },
+  {
+    "category": "Kitchen Appliances",
+    "devices": [
+      {
+        "deviceId": "microwave",
+        "name": "Microwave",
+        "standbyPower": "2–5W"
+      },
+      {
+        "deviceId": "coffee_maker",
+        "name": "Coffee Maker",
+        "standbyPower": "1–2W"
+      },
+      {
+        "deviceId": "toaster_oven",
+        "name": "Toaster Oven",
+        "standbyPower": "1–3W"
+      },
+      {
+        "deviceId": "blender",
+        "name": "Blender",
+        "standbyPower": "0.5–1.5W"
+      },
+      {
+        "deviceId": "dishwasher",
+        "name": "Dishwasher",
+        "standbyPower": "3–5W"
+      }
+    ]
+  },
+  {
+    "category": "Office Equipment",
+    "devices": [
+      {
+        "deviceId": "desktop_computer",
+        "name": "Desktop Computer",
+        "standbyPower": "3–8W"
+      },
+      {
+        "deviceId": "monitor",
+        "name": "Monitor",
+        "standbyPower": "1–3W"
+      },
+      {
+        "deviceId": "printer",
+        "name": "Printer",
+        "standbyPower": "2–5W"
+      },
+      {
+        "deviceId": "laptop_charger",
+        "name": "Laptop Charger",
+        "standbyPower": "0.5–1W"
+      },
+      {
+        "deviceId": "wifi_router",
+        "name": "Wi-Fi Router",
+        "standbyPower": "3–6W"
+      }
+    ]
+  }
+]
