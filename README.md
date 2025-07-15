@@ -14,8 +14,17 @@ This repository is intended to showcase the **folder structure**, **build enviro
 - Clean modular folder layout
 - Environment-based build system (`prod`, `development`)
 - Sample main entry points for each flavor
-- Basic routing and configuration patterns
 - CI-ready structure for scalable Flutter apps
+-  Modular architecture for scalable development
+- Dependency Injection (DI) structure with `di.config.dart`, `register_modules.dart`
+- Isolated network layer using `dio_wrapper`
+- Folder-based separation of:
+  - `datasources`, `repository`, `usecases`
+  - `wallet_adapter_service`, `permissions`, and `l10n`
+- Strong use of reusable **widgets** and **utils**
+- Environment-specific configuration using `base_env.dart`
+- Custom routing with `go_router`
+
 
 ---
 
